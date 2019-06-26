@@ -6,6 +6,8 @@ Let's play!
 
 https://soygitana.github.io/rock-paper-scissors/
 
+* mobile devices not supported
+
 ## Technologies used:
 
 * HTML

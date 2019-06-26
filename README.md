@@ -1,4 +1,4 @@
-# Play Rock Paper Scissors with your browser!
+## Play Rock Paper Scissors with your browser!
 
 My first browser game created with JS. 
 

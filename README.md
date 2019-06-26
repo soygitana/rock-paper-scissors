@@ -4,7 +4,7 @@ My first browser game created with JS.
 
 Let's play!
 
-https://soygitana.github.io/rock-paper-scissors/k-paper-scissors/
+https://soygitana.github.io/rock-paper-scissors/
 
 ## Technologies used:
 
